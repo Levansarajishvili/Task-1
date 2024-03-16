@@ -1,0 +1,25 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+        border-collapse: collapse;
+        width: 70%;
+    }
+    th {
+        border: 2px solid green;
+        background-color: yellow;
+        padding: 8px;
+        text-align: center;
+    }
+
+    td {
+        border: 2px solid green;
+        background-color: yellow;
+        padding: 8px;
+        text-align: center;
+    }
+
+  
